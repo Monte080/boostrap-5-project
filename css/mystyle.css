@@ -1,0 +1,26 @@
+/*Breakpoint*s*/
+@media (min-width: 768px){
+    .input-group{ width: 50%;
+}
+}       
+#react-logo img{
+    width: 400px; height: 300px; margin: 50px 0px 50px 30px;
+}
+#instructors .card {
+    margin: 20px;
+    border-radius: 10px;
+ }
+
+ #instructors img {
+    width: 150px;
+    height: 160px;
+    border: 2px solid #0578f2;
+    background-color: rgb(144, 147, 146);
+    align-items: center;
+ }
+
+
+ #image img{
+    width: 350px;
+    height: 300px;
+ }
